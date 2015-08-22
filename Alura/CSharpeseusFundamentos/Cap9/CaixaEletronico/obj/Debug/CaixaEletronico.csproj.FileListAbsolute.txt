@@ -13,3 +13,5 @@ D:\Projetos\Estudos\Alura\CSharpeseusFundamentos\Cap9\CaixaEletronico\obj\Debug\
 D:\Projetos\Estudos\Alura\CSharpeseusFundamentos\Cap9\CaixaEletronico\obj\Debug\CaixaEletronico.Form1.resources
 D:\Projetos\Estudos\Alura\CSharpeseusFundamentos\Cap9\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
 D:\Projetos\Estudos\Alura\CSharpeseusFundamentos\Cap9\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap9\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap9\CaixaEletronico\obj\Debug\CaixaEletronico.pdb

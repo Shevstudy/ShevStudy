@@ -1,0 +1,6 @@
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumerator\obj\Debug\CustomEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

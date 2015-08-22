@@ -1,0 +1,5 @@
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumeratorWithYeld\bin\Debug\CustomEnumeratorWithYeld.exe.config
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumeratorWithYeld\bin\Debug\CustomEnumeratorWithYeld.exe
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumeratorWithYeld\bin\Debug\CustomEnumeratorWithYeld.pdb
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumeratorWithYeld\obj\Debug\CustomEnumeratorWithYeld.exe
+C:\Users\Thiago\Desktop\dirTeste\CustomEnumeratorWithYeld\obj\Debug\CustomEnumeratorWithYeld.pdb

@@ -2,3 +2,7 @@ C:\SVN\Estudos\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
 C:\SVN\Estudos\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
 C:\SVN\Estudos\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
 C:\SVN\Estudos\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb
+C:\Users\Thiago\Desktop\dirTeste\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\Users\Thiago\Desktop\dirTeste\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\Users\Thiago\Desktop\dirTeste\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\Users\Thiago\Desktop\dirTeste\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

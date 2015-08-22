@@ -3,3 +3,8 @@ C:\SVN\Estudos\ICloneableExample\bin\Debug\ICloneableExample.pdb
 C:\SVN\Estudos\ICloneableExample\obj\Debug\ICloneableExample.csprojResolveAssemblyReference.cache
 C:\SVN\Estudos\ICloneableExample\obj\Debug\ICloneableExample.exe
 C:\SVN\Estudos\ICloneableExample\obj\Debug\ICloneableExample.pdb
+C:\Users\Thiago\Desktop\dirTeste\ICloneableExample\bin\Debug\ICloneableExample.exe
+C:\Users\Thiago\Desktop\dirTeste\ICloneableExample\bin\Debug\ICloneableExample.pdb
+C:\Users\Thiago\Desktop\dirTeste\ICloneableExample\obj\Debug\ICloneableExample.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\ICloneableExample\obj\Debug\ICloneableExample.exe
+C:\Users\Thiago\Desktop\dirTeste\ICloneableExample\obj\Debug\ICloneableExample.pdb

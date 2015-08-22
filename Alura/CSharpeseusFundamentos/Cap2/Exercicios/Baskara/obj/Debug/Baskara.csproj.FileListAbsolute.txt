@@ -6,3 +6,11 @@ C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Ba
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.exe
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.pdb
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\bin\Debug\Baskara.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\bin\Debug\Baskara.pdb
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.Form1.resources
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.Properties.Resources.resources
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.pdb

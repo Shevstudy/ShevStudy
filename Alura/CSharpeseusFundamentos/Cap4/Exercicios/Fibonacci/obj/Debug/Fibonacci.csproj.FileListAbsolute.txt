@@ -6,3 +6,11 @@ C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.exe
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fibonacci\obj\Debug\Fibonacci.pdb

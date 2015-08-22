@@ -3,3 +3,8 @@ C:\SVN\Estudos\SimpleException\bin\Debug\SimpleException.exe
 C:\SVN\Estudos\SimpleException\bin\Debug\SimpleException.pdb
 C:\SVN\Estudos\SimpleException\obj\Debug\SimpleException.exe
 C:\SVN\Estudos\SimpleException\obj\Debug\SimpleException.pdb
+C:\Users\Thiago\Desktop\dirTeste\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\Thiago\Desktop\dirTeste\SimpleException\bin\Debug\SimpleException.pdb
+C:\Users\Thiago\Desktop\dirTeste\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\Thiago\Desktop\dirTeste\SimpleException\obj\Debug\SimpleException.pdb

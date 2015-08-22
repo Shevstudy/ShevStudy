@@ -4,3 +4,9 @@ C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\EmployeeApp\bin\De
 C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
 C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\EmployeeApp\obj\Debug\EmployeeApp.exe
 C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\Thiago\Desktop\dirTeste\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\Thiago\Desktop\dirTeste\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\Thiago\Desktop\dirTeste\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\Thiago\Desktop\dirTeste\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\Thiago\Desktop\dirTeste\EmployeeApp\obj\Debug\EmployeeApp.pdb

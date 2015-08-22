@@ -3,3 +3,8 @@ C:\SVN\Estudos\CustomException\bin\Debug\CustomException.exe
 C:\SVN\Estudos\CustomException\bin\Debug\CustomException.pdb
 C:\SVN\Estudos\CustomException\obj\Debug\CustomException.exe
 C:\SVN\Estudos\CustomException\obj\Debug\CustomException.pdb
+C:\Users\Thiago\Desktop\dirTeste\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\CustomException\obj\Debug\CustomException.exe
+C:\Users\Thiago\Desktop\dirTeste\CustomException\bin\Debug\CustomException.exe
+C:\Users\Thiago\Desktop\dirTeste\CustomException\bin\Debug\CustomException.pdb
+C:\Users\Thiago\Desktop\dirTeste\CustomException\obj\Debug\CustomException.pdb

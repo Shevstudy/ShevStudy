@@ -1,1 +1,7 @@
 D:\Projetos\Estudos\MyInterfaceHierarchy\bin\Debug\MyInterfaceHierarchy.exe.config
+C:\Users\Thiago\Desktop\dirTeste\MyInterfaceHierarchy\bin\Debug\MyInterfaceHierarchy.exe.config
+C:\Users\Thiago\Desktop\dirTeste\MyInterfaceHierarchy\bin\Debug\MyInterfaceHierarchy.exe
+C:\Users\Thiago\Desktop\dirTeste\MyInterfaceHierarchy\bin\Debug\MyInterfaceHierarchy.pdb
+C:\Users\Thiago\Desktop\dirTeste\MyInterfaceHierarchy\obj\Debug\MyInterfaceHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\MyInterfaceHierarchy\obj\Debug\MyInterfaceHierarchy.exe
+C:\Users\Thiago\Desktop\dirTeste\MyInterfaceHierarchy\obj\Debug\MyInterfaceHierarchy.pdb

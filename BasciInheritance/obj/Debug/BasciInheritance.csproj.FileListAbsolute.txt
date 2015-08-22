@@ -7,3 +7,9 @@ C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\BasciInheritance\o
 C:\SVN\Estudos\BasciInheritance\bin\Debug\BasciInheritance.exe.config
 C:\SVN\Estudos\BasciInheritance\obj\Debug\BasciInheritance.exe
 C:\SVN\Estudos\BasciInheritance\obj\Debug\BasciInheritance.pdb
+C:\Users\Thiago\Desktop\dirTeste\BasciInheritance\bin\Debug\BasciInheritance.exe.config
+C:\Users\Thiago\Desktop\dirTeste\BasciInheritance\bin\Debug\BasciInheritance.exe
+C:\Users\Thiago\Desktop\dirTeste\BasciInheritance\bin\Debug\BasciInheritance.pdb
+C:\Users\Thiago\Desktop\dirTeste\BasciInheritance\obj\Debug\BasciInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\BasciInheritance\obj\Debug\BasciInheritance.exe
+C:\Users\Thiago\Desktop\dirTeste\BasciInheritance\obj\Debug\BasciInheritance.pdb

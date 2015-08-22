@@ -37,7 +37,7 @@ namespace CustomException
         public void Accelerate(int delta)
         {
 
-            CarIsDeadException ex = new CarIsDeadException(string.Format("{0} has overheated!", PetName), "You have a lead foot", DateTime.Now);
+            CarIsDeadException ex = new CarIsDeadException();
             ex.HelpLink = "http://carsrus.com";
 
             throw ex;

@@ -18,8 +18,8 @@ namespace CustomException
             catch (CarIsDeadException ex)
             {
                 Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.ErrorTimeStamp);
-                Console.WriteLine(ex.CauseOfError);
+                //Console.WriteLine(ex.ErrorTimeStamp);
+                //Console.WriteLine(ex.CauseOfError);
             }
 
             Console.ReadLine();

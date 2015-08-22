@@ -4,3 +4,9 @@ c:\users\thiago\documents\visual studio 2013\Projects\Estudos\SimpleClassExample
 c:\users\thiago\documents\visual studio 2013\Projects\Estudos\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
 c:\users\thiago\documents\visual studio 2013\Projects\Estudos\SimpleClassExample\obj\Debug\SimpleClassExample.exe
 c:\users\thiago\documents\visual studio 2013\Projects\Estudos\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+C:\Users\Thiago\Desktop\dirTeste\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\Users\Thiago\Desktop\dirTeste\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\Thiago\Desktop\dirTeste\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\Thiago\Desktop\dirTeste\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\Users\Thiago\Desktop\dirTeste\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

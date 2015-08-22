@@ -6,3 +6,11 @@ C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.csproj.GenerateResource.Cache
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.exe
 C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.pdb
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\bin\Debug\Operadores.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\bin\Debug\Operadores.pdb
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.Form1.resources
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.Properties.Resources.resources
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.exe
+C:\Users\Thiago\Desktop\dirTeste\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.pdb
