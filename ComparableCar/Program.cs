@@ -29,7 +29,7 @@ namespace ComparableCar
                 Console.WriteLine("{0} {1}", c.CarId, c.PetName);
             }
 
-            Array.Sort(myAutos, new PetNameComparer());
+            Array.Sort(myAutos, Car.SortByPetName);
 
             foreach (Car c in myAutos)
             {

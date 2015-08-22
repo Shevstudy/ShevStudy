@@ -21,7 +21,7 @@ namespace ComparableCar
 
         public static IComparer SortByPetName
         {
-            get { return (IComparer)PetNameComparer(); }
+            get { return (IComparer)new PetNameComparer(); }
         }
 
         //private Radio theMusicBox = new Radio();
