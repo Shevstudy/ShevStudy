@@ -1,0 +1,5 @@
+C:\SVN\Estudos\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\CustomInterface\bin\Debug\CustomInterface.exe
+C:\SVN\Estudos\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\SVN\Estudos\CustomInterface\obj\Debug\CustomInterface.exe
+C:\SVN\Estudos\CustomInterface\obj\Debug\CustomInterface.pdb

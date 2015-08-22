@@ -1,0 +1,7 @@
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\bin\Debug\Lacos.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\bin\Debug\Lacos.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\obj\Debug\Lacos.Form1.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\obj\Debug\Lacos.Properties.Resources.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\obj\Debug\Lacos.csproj.GenerateResource.Cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\obj\Debug\Lacos.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Lacos\obj\Debug\Lacos.pdb

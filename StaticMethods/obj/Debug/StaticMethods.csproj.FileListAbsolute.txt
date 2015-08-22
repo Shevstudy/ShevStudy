@@ -1,0 +1,5 @@
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticMethods\bin\Debug\StaticMethods.exe.config
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticMethods\bin\Debug\StaticMethods.exe
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticMethods\bin\Debug\StaticMethods.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticMethods\obj\Debug\StaticMethods.exe
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticMethods\obj\Debug\StaticMethods.pdb

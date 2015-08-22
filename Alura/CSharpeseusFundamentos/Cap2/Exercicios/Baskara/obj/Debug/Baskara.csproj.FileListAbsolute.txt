@@ -1,0 +1,8 @@
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\bin\Debug\Baskara.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\bin\Debug\Baskara.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.Form1.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.Properties.Resources.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.csproj.GenerateResource.Cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap2\Exercicios\Baskara\obj\Debug\Baskara.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\SVN\Estudos\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\SVN\Estudos\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\SVN\Estudos\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\SVN\Estudos\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

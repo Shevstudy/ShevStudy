@@ -1,0 +1,7 @@
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\bin\Debug\Fatorial.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\bin\Debug\Fatorial.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\obj\Debug\Fatorial.Form1.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\obj\Debug\Fatorial.Properties.Resources.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.Cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\obj\Debug\Fatorial.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\Fatorial\obj\Debug\Fatorial.pdb

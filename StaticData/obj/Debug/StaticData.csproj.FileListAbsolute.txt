@@ -1,0 +1,5 @@
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticData\bin\Debug\StaticData.exe.config
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticData\bin\Debug\StaticData.exe
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticData\bin\Debug\StaticData.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticData\obj\Debug\StaticData.exe
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\StaticData\obj\Debug\StaticData.pdb

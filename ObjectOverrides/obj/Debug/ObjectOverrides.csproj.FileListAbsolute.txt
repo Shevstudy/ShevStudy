@@ -1,0 +1,5 @@
+C:\SVN\Estudos\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\SVN\Estudos\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\SVN\Estudos\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\SVN\Estudos\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

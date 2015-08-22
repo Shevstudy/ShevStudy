@@ -1,0 +1,8 @@
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\bin\Debug\Operadores.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\bin\Debug\Operadores.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.Form1.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.Properties.Resources.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.csproj.GenerateResource.Cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap5\Operadores\obj\Debug\Operadores.pdb

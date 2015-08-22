@@ -1,0 +1,5 @@
+C:\SVN\Estudos\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\CustomException\bin\Debug\CustomException.exe
+C:\SVN\Estudos\CustomException\bin\Debug\CustomException.pdb
+C:\SVN\Estudos\CustomException\obj\Debug\CustomException.exe
+C:\SVN\Estudos\CustomException\obj\Debug\CustomException.pdb

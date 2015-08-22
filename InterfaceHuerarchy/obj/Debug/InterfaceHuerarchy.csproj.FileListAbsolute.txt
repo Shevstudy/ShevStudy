@@ -1,0 +1,6 @@
+D:\Projetos\Estudos\InterfaceHuerarchy\bin\Debug\InterfaceHuerarchy.exe.config
+D:\Projetos\Estudos\InterfaceHuerarchy\bin\Debug\InterfaceHuerarchy.exe
+D:\Projetos\Estudos\InterfaceHuerarchy\bin\Debug\InterfaceHuerarchy.pdb
+D:\Projetos\Estudos\InterfaceHuerarchy\obj\Debug\InterfaceHuerarchy.csprojResolveAssemblyReference.cache
+D:\Projetos\Estudos\InterfaceHuerarchy\obj\Debug\InterfaceHuerarchy.exe
+D:\Projetos\Estudos\InterfaceHuerarchy\obj\Debug\InterfaceHuerarchy.pdb

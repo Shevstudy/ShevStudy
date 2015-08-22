@@ -1,0 +1,12 @@
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\Employees\bin\Debug\Employees.exe.config
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\Employees\bin\Debug\Employees.exe
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\Employees\bin\Debug\Employees.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\Employees\obj\Debug\Employees.exe
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\Employees\obj\Debug\Employees.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Estudos\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\Employees\bin\Debug\Employees.exe.config
+C:\SVN\Estudos\Employees\bin\Debug\Employees.exe
+C:\SVN\Estudos\Employees\bin\Debug\Employees.pdb
+C:\SVN\Estudos\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\Employees\obj\Debug\Employees.exe
+C:\SVN\Estudos\Employees\obj\Debug\Employees.pdb

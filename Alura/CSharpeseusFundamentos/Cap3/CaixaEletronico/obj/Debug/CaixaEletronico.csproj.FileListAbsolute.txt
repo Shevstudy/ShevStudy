@@ -1,0 +1,7 @@
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\obj\Debug\CaixaEletronico.Form1.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap3\CaixaEletronico\obj\Debug\CaixaEletronico.pdb

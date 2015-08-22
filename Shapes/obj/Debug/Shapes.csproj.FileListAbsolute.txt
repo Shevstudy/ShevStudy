@@ -1,0 +1,12 @@
+D:\Estudos\Estudos\Shapes\bin\Debug\Shapes.exe.config
+D:\Estudos\Estudos\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Estudos\Estudos\Shapes\bin\Debug\Shapes.exe
+D:\Estudos\Estudos\Shapes\bin\Debug\Shapes.pdb
+D:\Estudos\Estudos\Shapes\obj\Debug\Shapes.exe
+D:\Estudos\Estudos\Shapes\obj\Debug\Shapes.pdb
+C:\SVN\Estudos\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\SVN\Estudos\Shapes\obj\Debug\Shapes.exe
+C:\SVN\Estudos\Shapes\obj\Debug\Shapes.pdb
+C:\SVN\Estudos\Shapes\bin\Debug\Shapes.exe.config
+C:\SVN\Estudos\Shapes\bin\Debug\Shapes.exe
+C:\SVN\Estudos\Shapes\bin\Debug\Shapes.pdb

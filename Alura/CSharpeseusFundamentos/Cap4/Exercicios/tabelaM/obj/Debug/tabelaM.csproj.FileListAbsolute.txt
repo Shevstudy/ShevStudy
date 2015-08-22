@@ -1,0 +1,7 @@
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\bin\Debug\tabelaM.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\bin\Debug\tabelaM.pdb
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\obj\Debug\tabelaM.Form1.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\obj\Debug\tabelaM.Properties.Resources.resources
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\obj\Debug\tabelaM.csproj.GenerateResource.Cache
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\obj\Debug\tabelaM.exe
+C:\SVN\Estudos\Alura\CSharpeseusFundamentos\Cap4\Exercicios\tabelaM\obj\Debug\tabelaM.pdb
