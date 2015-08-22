@@ -1,0 +1,6 @@
+C:\Users\Thiago\Desktop\dirTeste\ComparableCar\bin\Debug\ComparableCar.exe.config
+C:\Users\Thiago\Desktop\dirTeste\ComparableCar\obj\Debug\ComparableCar.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\ComparableCar\bin\Debug\ComparableCar.exe
+C:\Users\Thiago\Desktop\dirTeste\ComparableCar\bin\Debug\ComparableCar.pdb
+C:\Users\Thiago\Desktop\dirTeste\ComparableCar\obj\Debug\ComparableCar.exe
+C:\Users\Thiago\Desktop\dirTeste\ComparableCar\obj\Debug\ComparableCar.pdb

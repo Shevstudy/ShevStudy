@@ -1,0 +1,6 @@
+C:\Users\Thiago\Desktop\dirTeste\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+C:\Users\Thiago\Desktop\dirTeste\CloneablePoint\bin\Debug\CloneablePoint.exe
+C:\Users\Thiago\Desktop\dirTeste\CloneablePoint\bin\Debug\CloneablePoint.pdb
+C:\Users\Thiago\Desktop\dirTeste\CloneablePoint\obj\Debug\CloneablePoint.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\dirTeste\CloneablePoint\obj\Debug\CloneablePoint.exe
+C:\Users\Thiago\Desktop\dirTeste\CloneablePoint\obj\Debug\CloneablePoint.pdb
